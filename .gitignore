@@ -178,3 +178,6 @@ cython_debug/
 !.cursor/rules/*
 .cursor/
 
+# Go binaries
+bin/
+
